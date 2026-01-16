@@ -1,0 +1,5 @@
+{
+  "name": "IOM Delivery Report System",
+  "description": "A high-performance dynamic web application for managing and viewing industrial delivery reports with admin upload capabilities and real-time dashboard analytics.",
+  "requestFramePermissions": []
+}
